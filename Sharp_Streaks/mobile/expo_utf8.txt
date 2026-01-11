@@ -1,0 +1,31 @@
+﻿Starting project at C:\Users\avika\OneDrive\Desktop\code 1\Sharp_Rewards\Sharp_Streaks\mobile
+ΓÇ║ Port 8081 is being used by another process
+node.exe : Input is 
+required, but 'npx 
+expo' is in 
+non-interactive 
+mode.
+At line:1 char:1
++ & "C:\Program File
+s\nodejs/node.exe" "
+C:\Users\avika\AppDa
+ta\Roaming\ ...
++ ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo  
+            : NotS  
+  pecified: (Inpu   
+ t is requir...t    
+eractive mode.:    
+String) [], Rem    
+oteException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+Required input:
+> Use port 8082 
+instead?
+ΓÇ║ Skipping dev server

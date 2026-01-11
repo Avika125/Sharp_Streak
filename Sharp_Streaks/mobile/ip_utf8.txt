@@ -1,0 +1,24 @@
+﻿
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2401:4900:5ee2:f5f3:1efa:421a:c13c:f4b6
+   Temporary IPv6 Address. . . . . . : 2401:4900:5ee2:f5f3:d1b3:ffce:1f4f:5bca
+   Link-local IPv6 Address . . . . . : fe80::ea75:db30:49b9:8ea3%13
+   IPv4 Address. . . . . . . . . . . : 192.168.43.151
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::8c2d:a5ff:fee8:9202%13
+                                       192.168.43.1

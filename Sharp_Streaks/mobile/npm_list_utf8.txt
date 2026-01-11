@@ -1,0 +1,60 @@
+﻿mobile@1.0.0 C:\Users\avika\OneDrive\Desktop\code 1\Sharp_Rewards\Sharp_Streaks\mobile
+Γö£ΓöÇΓö¼ @expo/vector-icons@15.0.3
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ @react-navigation/native-stack@7.9.0
+Γöé Γö£ΓöÇΓö¼ @react-navigation/elements@2.9.3
+Γöé Γöé Γö£ΓöÇΓöÇ react@19.1.0 deduped
+Γöé Γöé ΓööΓöÇΓö¼ use-sync-external-store@1.6.0
+Γöé Γöé   ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ @react-navigation/native@7.1.26
+Γöé Γö£ΓöÇΓö¼ @react-navigation/core@7.13.7
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé Γö£ΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓö¼ use-latest-callback@0.2.6
+Γöé   ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo-blur@15.0.8
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo-font@14.0.10
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo-linear-gradient@15.0.8
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo-notifications@0.32.16
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo-status-bar@3.0.9
+Γöé Γö£ΓöÇΓö¼ react-native-is-edge-to-edge@1.2.1
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ expo@54.0.31
+Γöé Γö£ΓöÇΓö¼ @expo/devtools@0.1.8
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé Γö£ΓöÇΓö¼ expo-asset@12.0.12
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé Γö£ΓöÇΓö¼ expo-keep-awake@15.0.8
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé Γö£ΓöÇΓö¼ expo-modules-core@3.0.29
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ moti@0.29.0
+Γöé ΓööΓöÇΓö¼ framer-motion@6.5.1
+Γöé   ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-dom@19.1.0
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native-css-interop@0.2.1 extraneous
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native-reanimated@4.1.6
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native-safe-area-context@5.6.2
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native-screens@4.16.0
+Γöé Γö£ΓöÇΓö¼ react-freeze@1.0.4
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native-worklets@0.5.1
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γö£ΓöÇΓö¼ react-native@0.81.5
+Γöé Γö£ΓöÇΓö¼ @react-native/virtualized-lists@0.81.5
+Γöé Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+Γöé ΓööΓöÇΓöÇ react@19.1.0 deduped
+ΓööΓöÇΓöÇ react@19.1.0
+
