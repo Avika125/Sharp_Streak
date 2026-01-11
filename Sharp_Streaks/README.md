@@ -1,8 +1,8 @@
-# Sharp Streaks: The Gen Z Productivity FOMO Engine 🚀
+# Sharp Streaks: The Gen Z Productivity FOMO Engine
 
 Sharp Streaks is a gamified daily habit tracker designed to leverage psychology and reward systems to drive consistency. Built for Gen Z, it uses a dark-themed aesthetic, real-time "Flash Challenges," and a scarcity-driven marketplace.
 
-## 🌟 Core Features
+##  Core Features
 
 ### 1. The 24-Hour Challenge
 - **Streak Logic**: Complete your daily task within a 24-hour window or your streak resets to 0.
@@ -29,7 +29,7 @@ Sharp Streaks is a gamified daily habit tracker designed to leverage psychology 
 ### 5. Smart Notifications
 - Automated reminders at 8 PM and 10 PM (Streak Warning) to drive urgency and FOMO.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Mobile**: React Native (Expo) + Dark Mode Gen Z UI.
 - **Backend**: Node.js + Express + TypeScript.
@@ -37,7 +37,7 @@ Sharp Streaks is a gamified daily habit tracker designed to leverage psychology 
 - **Auth**: Firebase Authentication.
 - **Scheduler**: Node-cron for notification logic and random event triggering.
 
-## 🏗️ Architecture (Service Pattern)
+##  Architecture (Service Pattern)
 
 The backend follows a service-oriented architecture:
 - `StreakService`: Enforces habit logic and streak resets.
@@ -45,7 +45,7 @@ The backend follows a service-oriented architecture:
 - `FlashChallengeService`: Handles randomized daily quiz sessions.
 - `NotificationService`: Manages FCM token registration and push logic.
 
-## 📊 Database Schema
+## Database Schema
 
 - **`users`**: Main user profiles, streak data, and coin balances.
 - **`transactions`**: Immutable ledger of all coin earnings and expenditures.
@@ -55,7 +55,7 @@ The backend follows a service-oriented architecture:
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Backend
 1. `cd backend`
